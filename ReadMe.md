@@ -80,7 +80,7 @@ The model performs well on Turkish QA-style prompts that resemble the training d
 The model shows strong generalization, even with limited training, due to the LoRA technique and high-quality data.
 
 <p align="center">
-  <img src="image.png" width="400"/>
+  <img src="image.png" width="600"/>
 </p>
 
 
@@ -179,7 +179,7 @@ Model, eğitim verisine benzer sorularda oldukça doğal, akıcı ve içerik aç
 - 🔸 Soruyla bağlamsal olarak ilişkili
 
 <p align="center">
-  <img src="image.png" width="400"/>
+  <img src="image.png" width="600"/>
 </p>
 
 
